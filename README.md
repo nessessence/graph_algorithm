@@ -1,11 +1,16 @@
 # graph_algorithm
-implementation of basic graph algorithm and data structure using Python
-there are problems and solution in this repo:
-content
-	- dfs / bfs
-	- topological sort
-	- strongly connected component
-	- minimum spanning tree
-	- Shortest Path
-		- Dijksta
-		- Bellman-Ford
+implementation of basic graph algorithm and data structure using Python<br />
+there are problems and solution in this repo:<br />
+content:<br />
+<ul>
+<li>dfs / bfs  : O(V+E)</li>
+<li>topological sort : O(V+E)</li>
+<li>strongly connected component : O(V+E)</li>
+<li>minimum spanning tree: O(ElogV) or O(V^2)</li>
+<li>shortest path</li>
+<ul>
+	<li> Dijksta: O(ElogV) or O(V^2) </li>
+	<li> Bellman-Ford O(VE) </li>
+	</ul>
+</ul>
+
